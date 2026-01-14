@@ -134,6 +134,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support, please contact us through the contact form on the website or reach out to the development team.
 
----
-
 **Note**: Ensure that all scripts and external dependencies are properly loaded before deployment. Test the contact form functionality and analytics tracking in a staging environment before going live.
